@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">TestAndroidApp</string>
+    <string name="WalletAmount">Баланс кошелька</string>
+    <string name="WalletAmountVal">0.01234567 BTC</string>
+    <string name="WalletAmountAltVal">42622.52 RUB</string>
+    <string name="send">Отправить</string>
+    <string name="AddCurrency">Добавить валюту</string>
+    <string name="receive">Получить</string>
+    <string name="Currency1Amount">0.00974567</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="Currency2Amount">1234.00000000</string>
+    <string name="dogecoin">Dogecoin</string>
+    <string name="manage_bitcoin">Manage Bitcoin</string>
+    <string name="manage_dogecoin">Manage Dogecoin</string>
 </resources>
