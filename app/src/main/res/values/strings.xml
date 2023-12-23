@@ -12,4 +12,8 @@
     <string name="dogecoin">Dogecoin</string>
     <string name="manage_bitcoin">Manage Bitcoin</string>
     <string name="manage_dogecoin">Manage Dogecoin</string>
+    <string name="i_m_feeling_lucky">I\'m feeling lucky</string>
+    <string name="call">Позвонить</string>
+    <string name="hw1">ДЗ 1</string>
+    <string name="hw2">ДЗ 2</string>
 </resources>
