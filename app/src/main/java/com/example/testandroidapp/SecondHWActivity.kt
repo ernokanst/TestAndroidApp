@@ -30,7 +30,7 @@ class SecondHWActivity : AppCompatActivity() {
     private fun call() {
         val inputText = findViewById<EditText>(R.id.editTextPhone).text.toString()
         val intent = Intent(Intent.ACTION_DIAL).apply {
-            data = Uri.parse("tel:" + inputText)
+            data = Uri.parse("tel:$inputText")
         }
         startActivity(intent)
     }

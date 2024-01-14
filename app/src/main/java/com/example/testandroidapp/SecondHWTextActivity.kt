@@ -17,7 +17,7 @@ class SecondHWTextActivity : AppCompatActivity() {
     }
 
     companion object {
-        const val EXTRA_DATA = "EXTRA_DATA"
+        private const val EXTRA_DATA = "EXTRA_DATA"
 
         fun createIntent(context: Context, data: String): Intent {
             return Intent(context, SecondHWTextActivity::class.java)
